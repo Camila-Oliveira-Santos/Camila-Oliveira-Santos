@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Camila-Oliveira-Santos
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning Mechatronics
-- 💞️ I’m looking to collaborate on ThundeRatz
 - 📫 How to reach me camila.o.s@usp.br
 
 <!---
